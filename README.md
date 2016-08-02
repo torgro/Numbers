@@ -25,4 +25,4 @@ Test-OddNumber | Check if a number is odd
 
 ## PowershellGallery
 
-Module should be available on the [PowershellGallery](http://www.powershellgallery.com/)
+Module should be available on the [PowershellGallery](http://www.powershellgallery.com/packages/Numbers)
